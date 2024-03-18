@@ -1,9 +1,8 @@
 # Bank Loan Analysis
 
 <p align="center">
-  <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/bank%20loan%20img.webp"  title="hover text">
+  <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/bank%20loan%20image.png"  title="hover text">
 </p>
-
 
 ## Overview
 
@@ -78,7 +77,7 @@ total_payment: This column might indicate the total amount paid by the borrower 
 
 ## Problem Statement
 
-The problem statement involves creating dashboards in Power BI to visualize key performance indicators (KPIs) and loan portfolio metrics.
+The objective of this project is to perform comprehensive analysis of bank loan data using SQL and to create key performance indicator (KPI) metrics to assess loan portfolio performance.
 
 ## Dashboard 1: Summary
 
