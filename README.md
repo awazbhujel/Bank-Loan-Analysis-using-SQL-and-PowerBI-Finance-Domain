@@ -107,7 +107,7 @@ The objective of this project is to perform comprehensive analysis of bank loan 
 - Home Ownership Analysis (Tree Map)
 
 <p align="center">
-  <h1>Electric Vehicle Dashboard</h1>
+  <h1>Overview Dashboard</h1>
   <br>
   <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/dashboard%20img/Bank%20loan%20Report-2.png" alt="Overview" title="Overview Dashboard">
 </p>
@@ -119,7 +119,7 @@ The objective of this project is to perform comprehensive analysis of bank loan 
 The Details Dashboard provides a consolidated view of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
 <p align="center">
-  <h1>Electric Vehicle Dashboard</h1>
+  <h1>Details Dashboard</h1>
   <br>
   <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/dashboard%20img/Bank%20loan%20Report-3.png" alt="details Dashboard" title="Details Dashboard">
 </p>
