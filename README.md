@@ -89,6 +89,12 @@ The objective of this project is to perform comprehensive analysis of bank loan 
 - Average Interest Rate
 - Average Debt-to-Income Ratio (DTI)
 
+<p align="center">
+  <h1>Summary Dashboard</h1>
+  <br>
+  <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/dashboard%20img/Bank%20loan%20Report-1.png" alt="summary" title="Summary Dashboard">
+</p>
+
 ## Dashboard 2: Overview
 
 ### Charts
@@ -100,11 +106,23 @@ The objective of this project is to perform comprehensive analysis of bank loan 
 - Loan Purpose Breakdown (Bar Chart)
 - Home Ownership Analysis (Tree Map)
 
+<p align="center">
+  <h1>Electric Vehicle Dashboard</h1>
+  <br>
+  <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/dashboard%20img/Bank%20loan%20Report-2.png" alt="Overview" title="Overview Dashboard">
+</p>
+
 ## Dashboard 3: Details
 
 ### Grid
 
 The Details Dashboard provides a consolidated view of key loan-related metrics and data points, enabling users to access critical information efficiently.
+
+<p align="center">
+  <h1>Electric Vehicle Dashboard</h1>
+  <br>
+  <img src="https://github.com/awazbhujel/Bank-Loan-Analysis-using-SQL-and-PowerBI-Finance-Domain/blob/main/dashboard%20img/Bank%20loan%20Report-3.png" alt="details Dashboard" title="Details Dashboard">
+</p>
 
 ## Conclusion
 
